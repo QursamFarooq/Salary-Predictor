@@ -43,11 +43,17 @@ The model explains ~98% of the variance in salary based on years of experience, 
 Salary-Predictor/
 │
 ├── model.ipynb # Data exploration, preprocessing, model training & evaluation
+
 ├── model.pkl # Serialized trained model
+
 ├── app.py # Streamlit web application
+
 ├── requirements.txt # Project dependencies
+
 ├── README.md
+
 └── .gitignore
+
 
 ## How to Run Locally
 
