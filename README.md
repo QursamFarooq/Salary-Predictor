@@ -40,8 +40,9 @@ The dataset (`Salary Data.csv`) contains two columns:
 The model explains ~98% of the variance in salary based on years of experience, indicating a strong fit.
 
 ## Project Structure
-Salary-Predictor/
-│
+Salary-Predictor
+
+
 ├── model.ipynb # Data exploration, preprocessing, model training & evaluation
 
 ├── model.pkl # Serialized trained model
